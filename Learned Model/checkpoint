@@ -1,0 +1,2 @@
+model_checkpoint_path: "final_learned_model_trial_4"
+all_model_checkpoint_paths: "final_learned_model_trial_4"
